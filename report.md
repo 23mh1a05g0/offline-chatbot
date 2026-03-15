@@ -123,11 +123,4 @@ Future improvements may include integrating real order databases, adding documen
 
 ---
 
-## Future Work
 
-Possible extensions of this project include:
-
-* Implementing Retrieval-Augmented Generation (RAG)
-* Adding a web interface for customer interaction
-* Using larger LLM models for improved reasoning
-* Automating evaluation metrics

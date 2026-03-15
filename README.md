@@ -39,7 +39,6 @@ offline-chatbot/
 │
 ├── chatbot.py
 ├── README.md
-├── setup.md
 ├── report.md
 │
 ├── prompts/
@@ -84,20 +83,9 @@ Log into your account and open Order History to track your shipment.
 * Python
 * Ollama
 * Llama 3.2 (3B)
-* HuggingFace datasets
 * Requests library
 * Markdown for evaluation logs
 
 ---
 
-## Future Improvements
-
-Possible improvements include:
-
-* Integrating a web interface (Flask / FastAPI)
-* Adding product policy documents using RAG
-* Supporting multi-turn conversation memory
-* Implementing automated response scoring
-
----
 
